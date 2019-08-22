@@ -1,0 +1,31 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+thead th{
+    background: gray;
+    color: white;
+}
+
+tbody th{
+    background: lightgray;
+}
+
+a{
+    color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+caption{
+    padding: 10px;
+}
+
+footer{
+    background: gray;
+    color: white;
+}
